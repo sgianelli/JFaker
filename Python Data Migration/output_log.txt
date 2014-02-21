@@ -1,0 +1,77 @@
+There are 3007 en-US first names.
+There are 474 en-US last names.
+There are 5 en-US prefixes.
+There are 11 en-US suffixes.
+There are 8 en-US formats.
+
+
+There are 344 es-MX first names.
+There are 622 es-MX last names.
+There are 5 es-MX prefixes.
+There are 5 es-MX formats.
+
+
+There are 199 es-ES first names.
+There are 1033 es-ES last names.
+There are 2 es-ES prefixes.
+There are 10 es-ES formats.
+
+
+There are 220 fr_FR first names.
+There are 400 fr_FR last names.
+There are 4 fr_FR prefixes.
+There are 10 fr_FR formats.
+
+
+There are 321 ru_RU first names.
+There are 250 ru_RU last names.
+There are 2 ru_RU prefixes.
+There are 8 ru_RU formats.
+
+
+There are 98 cs_CZ male first names.
+There are 100 cs_CZ female first names.
+There are 47 cs_CZ male last names.
+There are 47 cs_CZ female last names.
+There are 8 cs_CZ female prefixes (includes degrees).
+There are 7 cs_CZ male prefixes (includes degrees).
+There are 6 cs_CZ degrees.
+There are 4 cs_CZ suffixes.
+There are 16 cs_CZ formats.
+
+
+There are 1189 de_DE male first names.
+There are 1197 de_DE female first names.
+There are 407 de_DE last names.
+There are 6 de_DE female prefixes.
+There are 6 de_DE male prefixes.
+There are 4 de_DE suffixes.
+There are 16 de_DE formats.
+
+
+There are 762 fr_FI first names.
+There are 435 fr_FI last names.
+There are 8 fr_FI prefixes.
+There are 4 fr_FI suffixes.
+There are 3 fr_FI formats.
+
+
+There are 245 dk_DK male first names.
+There are 252 dk_DK female first names.
+There are 91 dk_DK last names.
+There are 4 dk_DK female prefixes.
+There are 4 dk_DK male prefixes.
+There are 14 dk_DK formats.
+
+
+There are 364 el_GR male first names.
+There are 442 el_GR female first names.
+There are 809 el_GR male last names.
+There are 654 el_GR female last names.
+There are 14 el_GR formats.
+
+
+There are 363 it_IT first names.
+There are 100 it_IT last names.
+There are 3 it_IT prefixes.
+There are 8 it_IT formats.
